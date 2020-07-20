@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cda33e4-6e33-4791-af6a-944f2b2ff649" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apache-maven-3.5.4/maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1e4IC2u12W0G1N4ASd6qUj6OkEc" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/angenin/state" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.angenin.memento.game" />
+      <recent name="com.angenin.facade" />
+      <recent name="com.angenin.observer.observer" />
+      <recent name="com.angenin.visitor.action" />
+      <recent name="com.angenin.command" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/angenin/state" />
+      <recent name="$PROJECT_DIR$/src/com/angenin/interpreter" />
+      <recent name="$PROJECT_DIR$/src/com/angenin/mediator" />
+      <recent name="$PROJECT_DIR$/src/com/angenin/observer" />
+      <recent name="$PROJECT_DIR$/src/com/angenin/command/tv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.singleton.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.responsibilitychain.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.responsibilitychain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.state.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.prototype.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.strategy.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.observer.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.observer.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.flyweight.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.proxy.staticproxy.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.proxy.teacher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.angenin.proxy.dynamic.Test" />
+      <module name="DesignPattem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angenin.proxy.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cda33e4-6e33-4791-af6a-944f2b2ff649" name="Default Changelist" comment="" />
+      <created>1593574306773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593574306773</updated>
+      <workItem from="1593574308488" duration="1123000" />
+      <workItem from="1594131468331" duration="229000" />
+      <workItem from="1594131734902" duration="105000" />
+      <workItem from="1594132196227" duration="876000" />
+      <workItem from="1594296869456" duration="77000" />
+      <workItem from="1594370830818" duration="4780000" />
+      <workItem from="1594432250256" duration="35191000" />
+      <workItem from="1594626211549" duration="12434000" />
+      <workItem from="1594785526759" duration="7041000" />
+      <workItem from="1594955007248" duration="249000" />
+      <workItem from="1594955322321" duration="755000" />
+      <workItem from="1594956259597" duration="24838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="381" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594373448800">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="381" y="221" key="#com.intellij.fileTypes.FileTypeChooser/25.23.1255.777@25.23.1255.777" timestamp="1594373448800" />
+    <state x="465" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1595145629397">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="465" y="128" key="#com.intellij.ide.util.MemberChooser/25.23.1255.777@25.23.1255.777" timestamp="1595145629397" />
+    <state width="1213" height="190" key="GridCell.Tab.0.bottom" timestamp="1595216887419">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="190" key="GridCell.Tab.0.bottom/25.23.1255.777@25.23.1255.777" timestamp="1595216887419" />
+    <state width="1213" height="190" key="GridCell.Tab.0.center" timestamp="1595216887419">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="190" key="GridCell.Tab.0.center/25.23.1255.777@25.23.1255.777" timestamp="1595216887419" />
+    <state width="1213" height="190" key="GridCell.Tab.0.left" timestamp="1595216887418">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="190" key="GridCell.Tab.0.left/25.23.1255.777@25.23.1255.777" timestamp="1595216887418" />
+    <state width="1213" height="190" key="GridCell.Tab.0.right" timestamp="1595216887419">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="190" key="GridCell.Tab.0.right/25.23.1255.777@25.23.1255.777" timestamp="1595216887419" />
+    <state width="1213" height="236" key="GridCell.Tab.1.bottom" timestamp="1594897134271">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="236" key="GridCell.Tab.1.bottom/25.23.1255.777@25.23.1255.777" timestamp="1594897134271" />
+    <state width="1213" height="236" key="GridCell.Tab.1.center" timestamp="1594897134269">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="236" key="GridCell.Tab.1.center/25.23.1255.777@25.23.1255.777" timestamp="1594897134269" />
+    <state width="1213" height="236" key="GridCell.Tab.1.left" timestamp="1594897134269">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="236" key="GridCell.Tab.1.left/25.23.1255.777@25.23.1255.777" timestamp="1594897134269" />
+    <state width="1213" height="236" key="GridCell.Tab.1.right" timestamp="1594897134270">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state width="1213" height="236" key="GridCell.Tab.1.right/25.23.1255.777@25.23.1255.777" timestamp="1594897134270" />
+    <state x="240" y="153" key="IDE.errors.dialog" timestamp="1594453395585">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="240" y="153" key="IDE.errors.dialog/25.23.1255.777@25.23.1255.777" timestamp="1594453395585" />
+    <state x="37" y="47" key="SettingsEditor" timestamp="1595081911479">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="37" y="47" key="SettingsEditor/25.23.1255.777@25.23.1255.777" timestamp="1595081911479" />
+    <state x="234" y="136" width="837" height="550" key="find.popup" timestamp="1594623584498">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="234" y="136" width="837" height="550" key="find.popup/25.23.1255.777@25.23.1255.777" timestamp="1594623584498" />
+    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1595145557104">
+      <screen x="25" y="23" width="1255" height="777" />
+    </state>
+    <state x="317" y="124" width="670" height="676" key="search.everywhere.popup/25.23.1255.777@25.23.1255.777" timestamp="1595145557104" />
+  </component>
+</project>
